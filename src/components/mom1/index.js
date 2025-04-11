@@ -15,7 +15,7 @@ import { Typography, Card } from "antd";
 const { Title } = Typography;
 
 const data = [
-    { month: "W2436", unitsSoldPercent: 40, transactionsPercent: 40 },
+    { month: "W2436", unitsSoldPercent: 40, transactionsPercent: 41 },
     { month: "W2437", unitsSoldPercent: 52, transactionsPercent: 52 },
     { month: "W2438", unitsSoldPercent: 54, transactionsPercent: 54 },
     { month: "W2439", unitsSoldPercent: 54, transactionsPercent: 54 },
